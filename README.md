@@ -1,11 +1,16 @@
+  Health Care Symptoms Checker
+A simple, user-friendly web application designed to help users understand possible health conditions based on the symptoms they experience.
+This tool is built using HTML, CSS, and JavaScript logic, providing quick insights and awareness.
+It is meant for educational and informational purposes only, not as a medical diagnosis tool.
 
-  # Symptom Checker Platform
+🔍 Key Features
+Easy-to-use symptom input system
+Quick and clear results
+Beginner-friendly UI
+Lightweight and fast
+Designed to raise awareness about possible conditions
 
-  This is a code bundle for Symptom Checker Platform. The original project is available at https://www.figma.com/design/OIkm7z6rsFVqBROAAqM0ZT/Symptom-Checker-Platform.
+⚠️ Disclaimer
+This tool does not replace professional medical advice.
+For accurate diagnosis or treatment, always consult a certified healthcare professional.
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
